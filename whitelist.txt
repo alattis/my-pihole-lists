@@ -8,3 +8,4 @@ www.googletagmanager.com
 go.redirectingat.com
 securemetrics.apple.com
 iadsdk.apple.com
+tinyurl.com
