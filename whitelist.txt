@@ -10,3 +10,7 @@ securemetrics.apple.com
 iadsdk.apple.com
 tinyurl.com
 telegraph.api.hbo.com
+browser.events.data.microsoft.com
+arc.msn.com
+vortex.data.microsoft.com
+continuum.dds.microsoft.com
