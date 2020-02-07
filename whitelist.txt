@@ -14,3 +14,4 @@ browser.events.data.microsoft.com
 arc.msn.com
 vortex.data.microsoft.com
 continuum.dds.microsoft.com
+activity.windows.com
