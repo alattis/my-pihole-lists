@@ -16,3 +16,5 @@ continuum.dds.microsoft.com
 activity.windows.com
 s.youtube.com
 appleglobal.102.112.2o7.net
+watson.telemetry.microsoft.com
+v10.events.data.microsoft.com
