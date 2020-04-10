@@ -24,3 +24,4 @@ nexusrules.officeapps.live.com
 ieonlinews.microsoft.com
 v20.events.data.microsoft.com
 society6.com
+mobile.events.data.microsoft.com
