@@ -1,8 +1,3 @@
-reports.crashlytics.com
-e.crashlytics.com
-app-measurement.com
-firebaselogging.googleapis.com
-www.google-analytics.com
 adservice.google.com
 go.redirectingat.com
 securemetrics.apple.com
