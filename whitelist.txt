@@ -22,3 +22,4 @@ society6.com
 mobile.events.data.microsoft.com
 www.abovetopsecret.com
 boards.greenhouse.io
+cs.dds.microsoft.com
